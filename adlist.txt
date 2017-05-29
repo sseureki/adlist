@@ -1,0 +1,34 @@
+[Adblock Plus 2.0]
+! Version: 201705291955
+! The contents of this filter list are fetched from the EasyList repository: https://github.com/sseureki/adlist
+! Title: sseureki adlist
+! Expires: 7 days (update frequency)
+!
+!-----------------------General advert blocking filters-----------------------!
+! *** Fetched from: https://raw.githubusercontent.com/sseureki/adlist/master/adlist.txt ***
+||vk.com/*
+||vkontakte.ru/*
+||mc.yandex.ru/*
+habrahabr.ru##.js-ad_sticky.sticky
+habrahabr.ru##.xyz_wrapper.is_visible
+habrahabr.ru##.js-ad_sticky
+readmanga.me##.scroll-top.hide
+meduza.io##.ActionPanel.ActionPanel--default.ActionPanel--isInMaterialTopBar
+meduza.io##.MaterialTopBar-share
+meduza.io##.MaterialTopBar
+saw-wood.ru###block-views-similar_entries-block
+saw-wood.ru##.block.block-views
+come-for.com.ua##.lt-label.lt-label-event.lt-offline
+maxcheaters.com###me2a
+3d.sk##.socials
+3d.sk##div[style="cursor:pointer; box-shadow:0 0 3px #111111; -moz-box-shadow:0 0 3px #111111; -webkit-box-shadow:0 0 3px #111111; border-radius:0 0 5px 5px; -moz-border-radius:0 0 5px 5px; -webkit-border-radius:0 0 5px 5px; vertical-align:top; white-space:nowrap; font-weight:bold; font-family:Arial,Verdana,Helvetica,sans-serif; font-size:20px; cursor:pointer; padding:0px 3px 3px; position:absolute; top:0; left:0; border-top:0 !important; text-align:center; background-color:#7E7E7E; border:1px solid #7E7E7E;"]
+123rf.com###testReg
+medium.com##.u-fixed.u-bottom0.u-sizeFullWidth.u-backgroundWhite.u-boxShadowTop.u-borderBox.u-paddingTop10.u-paddingBottom10.u-zIndexMetabar.u-xs-paddingLeft10.u-xs-paddingRight10.js-stickyFooter
+medium.com##.metabar-inner.u-marginAuto.u-maxWidth1000.u-paddingLeft20.u-paddingRight20.js-metabarMiddle
+medium.com##.js-postShareWidget
+unity3d.com##.wrap
+facebook.com###u_0_48
+facebook.com##._4-u2._23h5._4-u8
+facebook.com###u_0_4a
+facebook.com##._5hn6
+*maxcheaters.com*
