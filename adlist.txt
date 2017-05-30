@@ -9,6 +9,7 @@
 ||vk.com/*
 ||vkontakte.ru/*
 ||mc.yandex.ru/*
+||yadro.ru/*
 habrahabr.ru##.js-ad_sticky.sticky
 habrahabr.ru##.xyz_wrapper.is_visible
 habrahabr.ru##.js-ad_sticky
