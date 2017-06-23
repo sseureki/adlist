@@ -8,7 +8,9 @@
 ! *** Fetched from: https://raw.githubusercontent.com/sseureki/adlist/master/adlist.txt ***
 ||vk.com/*
 ||vkontakte.ru/*
+||mail.ru/*
 ||mc.yandex.ru/*
+||yandex-metrica.ru/*
 ||yadro.ru/*
 habrahabr.ru##.js-ad_sticky.sticky
 habrahabr.ru##.xyz_wrapper.is_visible
