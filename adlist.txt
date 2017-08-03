@@ -12,6 +12,7 @@
 ||mc.yandex.ru/*
 ||yandex-metrica.ru/*
 ||yadro.ru/*
+||kinopoisk.ru/*
 habrahabr.ru##.js-ad_sticky.sticky
 habrahabr.ru##.xyz_wrapper.is_visible
 habrahabr.ru##.js-ad_sticky
